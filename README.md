@@ -20,3 +20,7 @@ This project has helped me learn more about hospitality domain and their key met
 - 📌 Dynamic Pricing means having different rates for weekdays & peak days
 
 ## Power BI Report Preview:
+### Atliq Hospitality Reveneue Analysis
+![Home view](https://github.com/swarupmore/Hospitality-Data-Analysis/blob/main/images/Screenshot%202023-08-03%20231551.png)
+### Atliq Hospitality Booking Analysis
+![Home view](https://github.com/swarupmore/Hospitality-Data-Analysis/blob/main/images/Screenshot%202023-08-03%20231622.png)
