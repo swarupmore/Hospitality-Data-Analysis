@@ -14,14 +14,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
   ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/swarupmore/Hospitality-Data-Analysis/blob/main/images/Screenshot%202023-08-03%20232921.png">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/swarupmore/Hospitality-Data-Analysis/blob/main/images/Screenshot%202023-08-03%20232935.png' >
 </p>
 
 
