@@ -12,7 +12,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create a dashboard according to the mock-up provided by stakeholders. 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-  ## Provided Mock-up Dashboard
+## Provided Mock-up Dashboard
 <p align="center">
     <img src="https://github.com/swarupmore/Hospitality-Data-Analysis/blob/main/images/Screenshot%202023-08-03%20232921.png">
 </p>
