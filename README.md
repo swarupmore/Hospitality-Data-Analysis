@@ -18,3 +18,5 @@ This project has helped me learn more about hospitality domain and their key met
 - 📌 Flat Pricing means following the same rates for 365 days
 - 📌 Weekday/Weekend Pricing means having different rates for weekdays & weekends
 - 📌 Dynamic Pricing means having different rates for weekdays & peak days
+
+## Power BI Report Preview:
